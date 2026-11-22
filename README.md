@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6F4E37,100:1A1410&height=220&section=header&text=Hi,%20I'm%20Amanda%20Pasqualotto!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Technology%20%C3%97%20Law%20%C3%97%20Product%20%C3%97%20AI&descAlignY=58&descSize=18" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C68642,45:8B4513,100:2B1608&height=220&section=header&text=Hi,%20I'm%20Amanda%20Pasqualotto!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Technology%20%C3%97%20Law%20%C3%97%20Product%20%C3%97%20AI&descAlignY=58&descSize=18" width="100%" alt="banner"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=900&color=8B5E3C&center=true&vCenter=true&width=750&lines=IT+%26+Law+Student+%7C+Estudante+de+TI+e+Direito;Product+Management+%26+UX%2FUI+Design;Generative+AI+%7C+IA+Generativa;Governance%2C+Compliance+%26+LGPD" alt="Typing SVG" />
@@ -412,4 +412,4 @@ Meu caminho é multidisciplinar de propósito: ele une **estratégia, inovação
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1410,100:6F4E37&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B1608,55:8B4513,100:C68642&height=120&section=footer" width="100%" alt="footer"/>
